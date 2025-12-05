@@ -1,0 +1,15 @@
+Download steamcmd.
+
+$ wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
+
+Extract it into its own directory somwhere in $HOME
+
+Put gzw_verify.txt and update_gzw.sh from this archive into that same directory
+(where steamcmd.sh is.)
+
+Read carefully and edit both gzw_verify.txt and  update_gzw.sh for Steam 
+directory paths, home user path, and Steam username/passwords.
+
+Run ./update_gzw.sh
+
+If using Steam authenticator, you will have to approve login on mobile device.
