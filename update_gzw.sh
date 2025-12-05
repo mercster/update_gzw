@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Credit to @Wifiik_CZ on GZW Discord.
+
 # set game dir.  edit per your Steam installation
 
 GZW_PATH="/home/USERNAME/.steam/steam/steamapps/common/Gray Zone Warfare"
