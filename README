@@ -13,3 +13,5 @@ directory paths, home user path, and Steam username/passwords.
 Run ./update_gzw.sh
 
 If using Steam authenticator, you will have to approve login on mobile device.
+
+Credit to @Wifiik_CZ on GZW Discord.
